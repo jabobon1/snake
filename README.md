@@ -1,7 +1,7 @@
 # snake
 Algorithms and solutions for game snake 
 
-Hamilton ways solution:
+Hamilton cycle solution:
 
 ![](images/snake.gif)
 
